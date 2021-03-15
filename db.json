@@ -1,16 +1,22 @@
 {
   "colors": [
     {
-      "id": 1,
-      "name": "Pink",
-      "hex": "#FFC0CB",
-      "votes": 0
+      "id": 2,
+      "name": "Aqua",
+      "hex": "#00FFFF",
+      "votes": 1
     },
     {
-        "id": 2,
-        "name": "Aqua",
-        "hex": "#00FFFF",
-        "votes": 0
+      "name": "jelly",
+      "hex": "#8e1a1a",
+      "votes": 1,
+      "id": 14
+    },
+    {
+      "name": "blue",
+      "hex": "#0b12d0",
+      "votes": 1,
+      "id": 15
     }
   ]
 }
