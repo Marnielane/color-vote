@@ -4,7 +4,7 @@
       "id": 2,
       "name": "Aqua",
       "hex": "#00FFFF",
-      "votes": 1
+      "votes": 2
     },
     {
       "name": "jelly",
@@ -15,8 +15,20 @@
     {
       "name": "blue",
       "hex": "#0b12d0",
-      "votes": 1,
+      "votes": 3,
       "id": 15
+    },
+    {
+      "name": "Violette",
+      "hex": "#5a1381",
+      "votes": 8,
+      "id": 16
+    },
+    {
+      "name": "Molly",
+      "hex": "#2e501b",
+      "votes": 4,
+      "id": 17
     }
   ]
 }
